@@ -10,7 +10,7 @@ int main() {
 
     printf("Valor do protocolo urgente: %d\n", *protocolo_urgente);
 
-     free(protocolo_urgente);
+    free(protocolo_urgente);
 
     return 0;
 }
